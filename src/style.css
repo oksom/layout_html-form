@@ -14,3 +14,7 @@
 .block:last-child {
   margin-bottom: 0;
 }
+
+.textField {
+  cursor: default;
+}
